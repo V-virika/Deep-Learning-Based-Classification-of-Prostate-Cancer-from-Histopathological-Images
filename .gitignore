@@ -33,12 +33,6 @@ wheels/
 *.pt
 *.ckpt
 
-# Data files
-*.npy
-*.csv
-prostrate_cancer_data/
-preprocessed_data/
-
 # VS Code
 .vscode/
 
